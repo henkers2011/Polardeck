@@ -6,12 +6,20 @@ created_at: "2026-11-25"
 total_time: "1.5h"
 ---
 
+## November 26, 2026: More PiHAT Research
+---
+I have decided on the PiHAT setup; I will be doing a base one with power management and some other basic parts as well as a second board on top with a built in mechanical keyboard and trackball that will screw in to the case and connect to the main lower PiHAT. 
+![](https://fabricate.hackclub-assets.com/9dd23610796cf5b45e42551bf25dfa36a78d3cb51e3e2a374ebd4a315346997b/image-png/image.png)
+(Image is not to scale)
+Having most of the case open also allows more passive cooling which will lead to better performance.
+**Total time spent: 1.5h**
+
+
+
 ## November 25, 2026: Startup research
 
 I did some research on cyberdecks, the hardware and software that will be necessary for my  project, and on how realistic this kind of project really is.  I found that this will be a lot of work, but this is a project that I could realistically design, code, and ship, which is exciting. 
-_____
-The research done included:
------
+
 -RF shielding: I learned that if I don't shield all of my computer stuff inside of the case it will interfere with the antenna and cause a blurry(er) image.
 -The sensors and equipment needed on the cyberdeck (which I have named Polardeck) for it to do it's mission. I will use a little chip that has GPS, a thermometer, barometric preassure, etc. that is part of what is looked at for estimating future weather.
 Satellites: Which ones suit my use case the best and what kind of data they stream. I learned that the Meteor M series satellites fit my use case the best as the orbit over the poles.
