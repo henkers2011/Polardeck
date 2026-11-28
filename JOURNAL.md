@@ -3,8 +3,20 @@ title: "Polardeck"
 github: "https://github.com/henkers2011/Polardeck"
 description: "This is a weather satellite ground station that operates off-grid and works with a RPi 3B+ with a custom built Power+GPS+RTC HAT. It has a custom built 3D printed RF-shielding clamshell case, retractable tripod V-dipole pod, and offline Leaflet.js GIS weather and ice map and weather prediction."
 created_at: "2026-11-25"
-total_time: "3h"
+total_time: "4.5h"
 ---
+
+## November 27, 2026: Learned how radios work
+___
+I wanted to know the science behind how radios work before I actually decide on the antenna setup for the project. Here are some of the interesting things that I learned during research!
+- I learned that radio waves that are transmitted are just electromagnetic waves, and antennas kind of absorb the waves at the frequency that they were broadcast at.
+- The radios can broadcast different kinds of waves that represent different sounds, and the same electromagnetic waves are what let us see colour, use x rays, etc.
+![](https://fabricate.hackclub-assets.com/3f6a45c1eecc944ce43bbdaa7ab5da10ea8c2e9d9235c83da5574addec00b15e/image-png/image.png)
+
+- The length of the antenna dictates the frequency of the waves.
+![](https://fabricate.hackclub-assets.com/eaccbba34c3edf5f92a007ad9e167cd79e251640808f97a806e295de3d2598ce/image-png/image.png)
+**Total time spent: 1.5h**
+
 
 ## November 26, 2026: More PiHAT Research
 ---
